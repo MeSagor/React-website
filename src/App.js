@@ -9,7 +9,7 @@ import Projects from "./myComponents/projects/Projects";
 
 function App() {
     return (
-        <HashRouter basename="/">
+        <HashRouter>
             <div className="hero">
                 {/*<div className="navbarStyle">*/}
                     <Navbar/>
